@@ -30,6 +30,24 @@ MedAssist is a full-stack healthcare appointment system that leverages **Model C
 
 ---
 
+## 📸 Screenshots
+
+### Patient Booking Flow
+![Patient Dashboard](./screenshots/patient-dashboard.png)
+*Natural language booking with AI assistant - "Book with Dr. Ahuja tomorrow at 10 AM"*
+
+![Booking Success](./screenshots/booking-success.png)
+*Multi-turn conversation showing context memory and MCP tools in action*
+
+### Doctor Dashboard
+![Doctor Dashboard](./screenshots/doctor-dashboard.png)
+*Doctor's schedule and statistics overview with AI assistant*
+
+![Slack Report](./screenshots/doctor-slack-report.png)
+*Automated report delivery to Slack notification channel*
+
+---
+
 ## ✨ Features
 
 ### For Patients
