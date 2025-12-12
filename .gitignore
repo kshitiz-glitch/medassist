@@ -1,0 +1,53 @@
+# Environment variables
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Google credentials
+credentials.json
+token.json
+
+# Database
+*.db
+*.sqlite
+
+# Assignment file (don't upload to public GitHub)
+FSE_intern_assignment_mcp.md
+
+# Misc
+.cache/
+temp/
+tmp/
